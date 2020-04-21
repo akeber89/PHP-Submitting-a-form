@@ -8,4 +8,3 @@ if (empty(trim($name))) {
 }
 
 echo "Hi there, {$_POST['name']}!";
-
